@@ -1,0 +1,13 @@
+C:\Users\Servidor\source\repos\FormsIngreso\FormsIngreso\bin\Debug\FormsIngreso.exe.config
+C:\Users\Servidor\source\repos\FormsIngreso\FormsIngreso\bin\Debug\FormsIngreso.exe
+C:\Users\Servidor\source\repos\FormsIngreso\FormsIngreso\bin\Debug\FormsIngreso.pdb
+C:\Users\Servidor\source\repos\FormsIngreso\FormsIngreso\obj\Debug\FormsIngreso.Ayudas.resources
+C:\Users\Servidor\source\repos\FormsIngreso\FormsIngreso\obj\Debug\FormsIngreso.Datos.resources
+C:\Users\Servidor\source\repos\FormsIngreso\FormsIngreso\obj\Debug\FormsIngreso.Segundo.resources
+C:\Users\Servidor\source\repos\FormsIngreso\FormsIngreso\obj\Debug\FormsIngreso.Properties.Resources.resources
+C:\Users\Servidor\source\repos\FormsIngreso\FormsIngreso\obj\Debug\FormsIngreso.csproj.GenerateResource.cache
+C:\Users\Servidor\source\repos\FormsIngreso\FormsIngreso\obj\Debug\FormsIngreso.csproj.CoreCompileInputs.cache
+C:\Users\Servidor\source\repos\FormsIngreso\FormsIngreso\obj\Debug\FormsIngreso.exe
+C:\Users\Servidor\source\repos\FormsIngreso\FormsIngreso\obj\Debug\FormsIngreso.pdb
+C:\Users\Servidor\source\repos\FormsIngreso\FormsIngreso\obj\Debug\FormsIngreso.csprojAssemblyReference.cache
+C:\Users\Servidor\source\repos\FormsIngreso\FormsIngreso\obj\Debug\FormsIngreso.ProgressBar.resources
